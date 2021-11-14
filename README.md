@@ -1,5 +1,5 @@
 # Portfolio_academic
  my portfolio website
  
- # Site
- (https://kundanrao.netlify.app/)[https://kundanrao.netlify.app/]
+# Site
+https://kundanrao.netlify.app/
