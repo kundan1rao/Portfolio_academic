@@ -1,8 +1,8 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: My Personal Website
+author: Kundan K. Rao
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -114,6 +114,10 @@ menu:
       title: Element Page
       url: /elements/
       weight: 6
+    - name: Courses
+      title: Courses Page
+      url: /courses/
+      weight: 7
 privacy:
   disqus:
     disable: no

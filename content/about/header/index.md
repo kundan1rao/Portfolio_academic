@@ -3,5 +3,5 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Kundan Kumar Rao. Welcome to my website.
+  Hellow! Welcome to my website!
 ---

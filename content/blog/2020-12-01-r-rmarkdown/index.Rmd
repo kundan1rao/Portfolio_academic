@@ -24,6 +24,7 @@ fit
 
 # Including Plots
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
 ```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
@@ -35,3 +36,7 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+666666666666666666666666666688888888888888888888888
+
+hihhhhhhhhhhhhhhhhhhhhhhhhhhh   klh i                   yyoyouupuggy
