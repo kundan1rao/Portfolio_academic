@@ -110,9 +110,9 @@ menu:
       title: A collection
       url: /collection/
       weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
+    - name: Contact
+      title: Contact Page
+      url: /contact/
       weight: 6
     - name: Courses
       title: Courses Page
