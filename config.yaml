@@ -114,10 +114,6 @@ menu:
       title: Contact Page
       url: /contact/
       weight: 6
-    - name: Courses
-      title: Courses Page
-      url: /courses/
-      weight: 7
 privacy:
   disqus:
     disable: no

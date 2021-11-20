@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Contact me by filling out this form for any query.
+description: Contact me by filling out this form for any query. You can directaly mail me on kkrao10017@gmail.com.
 draft: false
 formspree_form_id: xzbynwrv
 layout: split-left
