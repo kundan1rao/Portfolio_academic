@@ -4,7 +4,8 @@ cascade:
   layout: single-series
   sidebar:
     author: Kundan K. Rao
-    description: "Here is the"
+    description: "Here is the list of professional services i am offering:-\n
+      Data Visulization, Data Analysis, Report, Tutoring and many more...\n"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: false
