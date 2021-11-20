@@ -106,9 +106,9 @@ menu:
       title: Talks
       url: /talk/
       weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
+    - name: Services
+      title: Services
+      url: /services/
       weight: 5
     - name: Contact
       title: Contact Page
