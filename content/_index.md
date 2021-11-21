@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Masters student, Statistics, CURAJ (India).
 text_align_left: false
-title: Kundan Kumar Rao
+title: Kundan K. Rao
 type: home
 ---
 
