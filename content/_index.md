@@ -8,7 +8,7 @@ images:
 - img/myimg.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Welcome to my website.
+subtitle: Masters student, Statistics, CURAJ (India).
 text_align_left: false
 title: Kundan Kumar Rao
 type: home

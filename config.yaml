@@ -102,22 +102,22 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
+   # - name: Talks
+    #  title: Talks
+     # url: /talk/
+      #weight: 4
+    - name: Services
+      title: Services
       url: /collection/
+      weight: 4
+    - name: Contact
+      title: Contact Page
+      url: /contact/
       weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
-    - name: Courses
-      title: Courses Page
-      url: /courses/
-      weight: 7
+   # - name: Elements
+    #  title: Elements
+     # url: /elements/
+      #weight: 7
 privacy:
   disqus:
     disable: no

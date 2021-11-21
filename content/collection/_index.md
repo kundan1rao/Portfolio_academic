@@ -1,27 +1,26 @@
 ---
-author: Alison Hill
+author: Kundan K. Rao
 cascade:
   layout: single-series
   sidebar:
-    author: Alison Hill
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
+    author: Kundan K. Rao
+    description: "Here is the list of professional services i am offering:-\n
+      Data Visulization, Data Analysis, Report, Tutoring and many more...\n"
     show_author_byline: true
     show_post_date: true
-    show_sidebar_adunit: true
+    show_sidebar_adunit: false
     text_contents_label: On this page
     text_link_label: ""
     text_link_url: ""
     text_series_label: Outline
-    title: Create a Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
+    title: List Of Services
+description: "Here is the list of professional services i am offering:-\n
+Data Visulization, Data Analysis, Report, Tutoring and many more...\n"
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: A collection, minus the blog.
+subtitle: Data Visulization, Data Analysis, Report, Tutoring and many more...
 thumbnail_left: false
-title: Create a Collection
+title: List Of Services
 ---
