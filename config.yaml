@@ -108,12 +108,12 @@ menu:
       #weight: 4
     - name: Services
       title: Services
-      url: /services/
-      weight: 5
+      url: /collection/
+      weight: 4
     - name: Contact
       title: Contact Page
       url: /contact/
-      weight: 6
+      weight: 5
    # - name: Elements
     #  title: Elements
      # url: /elements/

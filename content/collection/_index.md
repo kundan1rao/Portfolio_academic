@@ -10,8 +10,8 @@ cascade:
     show_post_date: true
     show_sidebar_adunit: false
     text_contents_label: On this page
-    text_link_label: "View services"
-    text_link_url: "/services/"
+    text_link_label: ""
+    text_link_url: ""
     text_series_label: Outline
     title: List Of Services
 description: "Here is the list of professional services i am offering:-\n
