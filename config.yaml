@@ -114,6 +114,10 @@ menu:
       title: Contact Page
       url: /contact/
       weight: 6
+   # - name: Elements
+    #  title: Elements
+     # url: /elements/
+      #weight: 7
 privacy:
   disqus:
     disable: no
