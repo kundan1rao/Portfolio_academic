@@ -1,5 +1,5 @@
 baseURL: https://kundanrao.netlify.app/
-#theme: hugo-apero
+theme: hugo-apero
 languageCode: en
 title: Kundan K. Rao
 author: Kundan K. Rao
