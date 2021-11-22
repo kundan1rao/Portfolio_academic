@@ -1,7 +1,7 @@
 baseURL: https://kundanrao.netlify.app/
-theme: hugo-apero
+#theme: hugo-apero
 languageCode: en
-title: My Personal Website
+title: Kundan K. Rao
 author: Kundan K. Rao
 copyright: ''
 googleAnalytics: ''
@@ -44,13 +44,17 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: ''
+  orgName: Kundan K. Rao
   sharing_image: /img/papillons.jpg
   social:
     - icon: github
       icon_pack: fab
       url: https://github.com/kundan1rao
+    - icon: r-project
+      icon_pack: fab
+      name: Rpubs
+      url: https://rpubs.com/kundan1rao/
     - icon: linkedin
       icon_pack: fab
       url: https://www.linkedin.com/in/kundan1rao

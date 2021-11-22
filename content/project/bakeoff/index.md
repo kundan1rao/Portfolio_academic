@@ -9,7 +9,8 @@ draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
   saved in the form front matter.
-layout: single
+featured: true
+layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
