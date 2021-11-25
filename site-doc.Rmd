@@ -1,9 +1,9 @@
 ---
+title: "R Notebook"
 output:
   pdf_document: default
-  html_document: default
+  html_notebook: default
 ---
-
 
 # Portfolio_academic
  my portfolio website
