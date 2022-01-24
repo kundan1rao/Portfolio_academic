@@ -1,16 +1,16 @@
 ---
-author: Alison Hill
-date: "2021-01-26"
+author: Kundan K. Rao
+date: ""
 description: |
-  day two
+  Checkout the Data Visualization services
 excerpt: null
 layout: single-series
-publishDate: "2021-01-22"
+publishDate: ""
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: All about Day 02 of 'Introduce Yourself Online'.
-title: Day 02
+subtitle: Data Visualization servbices.
+title: Data Visualization
 weight: 3
 ---
 
