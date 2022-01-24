@@ -68,3 +68,5 @@ So, did you understand how handy RStudio and R programming language could be for
 Got any other questions regarding making publication-quality graphs?\ Feel free to leave your comments. I will explore the possibilities and will answer your queries.\
 I will soon post a follow-up post showing the technical process (codes) of doing the things explained here. Stay connected.\
 If you like my post, consider following me on medium. You can also follow me on Linkedin (here).
+
+Thanks for visiting!
