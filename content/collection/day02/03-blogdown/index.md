@@ -6,21 +6,8 @@ excerpt: Grid is the very first CSS module created specifically to solve the lay
   websites.
 layout: single-series
 subtitle: ""
-title: Warm woolen mittens
+title: Diagrams
 weight: 3
 ---
 
-{{< here >}}
-
-
-## part 2!
-
-### does this work?
-
----
-
-## now for some very cool things
-
-## more
-
-## get ready!
+Coming soon...
