@@ -4,6 +4,9 @@ title: Make Publication Quality Graph in R Programming
 output: html_document
 categories: ["R","Visualization"]
 date: "25/01/2022"
+excerpt: Data scraping to data cleaning to data pre-processing to making plots to exporting in multiple formats. Everything in Rstudio.
+subtitle: "Data scraping to data cleaning to data pre-processing to making plots to exporting in multiple formats. Everything in Rstudio."
+tags: ["Publication","Graphs"]
 ---
 
 ```{r setup, include=FALSE}
