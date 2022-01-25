@@ -69,4 +69,4 @@ Got any other questions regarding making publication-quality graphs?\ Feel free 
 I will soon post a follow-up post showing the technical process (codes) of doing the things explained here. Stay connected.\
 If you like my post, consider following me on medium. You can also follow me on Linkedin (here).
 
-Thanks for visiting!
+Thanks for visiting! Keep learning!
