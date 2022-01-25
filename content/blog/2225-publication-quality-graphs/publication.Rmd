@@ -8,7 +8,6 @@ excerpt: Data scraping to data cleaning to data pre-processing to making plots t
 subtitle: "Data scraping to data cleaning to data pre-processing to making plots to exporting in multiple formats. Everything in Rstudio."
 tags: ["Publication","Graphs"]
 draft: false
-images: null
 layout: single
 series: null
 ---
@@ -17,7 +16,7 @@ series: null
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Graph](index_files/figure-html/publication-blog.png "Graph")
+![Cryptocurrencies market cap over time](featured-photo.jpg "Cryptocurrencies market cap over time"){width="500"}
 
 Isn't the subtitle seems great?\
 Enjoy the conversation:-
