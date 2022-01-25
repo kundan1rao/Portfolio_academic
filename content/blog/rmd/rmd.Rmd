@@ -1,0 +1,69 @@
+---
+title: "Untitled"
+author: "Kundan K. Rao"
+date: "25/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Isn't the subtitle seems great?\
+Enjoy the conversation:- 
+
+Q. Hey! what do you do?\
+A. Anything with the data.
+
+Q. Great! Do you do data visualization?\
+A. Yeah! With data from any sector. (Thanks to #ggplot2)
+
+Q. Publishing quality?\
+A. Yeah! for book, web, journal, anything. (Thanks to #rmarkdown #pandoc #tinytex)
+
+Q. I have data on a few websites. Should I share that?\ Can you download/scrape that?\
+A. Yeah, please share the URL. (Thanks to #readr, #readxl, #rvest).
+
+Q. Actually, data on the website contains the values in different units and there are a lot of other variables. Can you clean that?\
+A. That's my job. I will clean the data set as you wish. (Thanks to #dplyr, #lubridate and #tidyverse )
+
+Q. Thank you very much. I need a map also showing the values for a different region of this XYZ county. Do you do that?\
+A. Thanks for letting me know that. I will do that as well. (Thanks to #tmap, #leaflet, #sf, #ggplot2)
+
+Q. In which format do you provide the graphs? png, tiff?\
+Q. Any format! as you wish! (Thanks to #grDevices)
+
+Q. I need to publish the graphs on some digital platform too. So, do you provide SVG, too?\
+A. Of course! let me know your requirements!
+
+Q. Awesome! Can you provide the pixel and resolution (dpi) as specified?\
+Q. Of course! Let me know your specification. (Again thanks to #grDevices)
+
+Q. Can you please show me a quick sample? How the plot will look?\
+A. Yeah sure. (Thanks to #esquisse, #shiny)
+
+Q. Hey, the plot looks great. Can you please write data values on the bars, make the axis text a little more clear, change the font of all the text, remove the background of the ligand, move ligand here (tick mark), etc etc.\
+A. Just a few minutes please! (thanks to #ggplot2, #fontextra, #scales)
+
+Q. This looks great! Can you show me a few more varieties?\
+A. Ok. Just a minute. Let me show you different professional themes. (Thanks to #ggthemes)
+
+Q. Wow! That's it, man! Thanks a lot for such an amazing job. Please send the files.\
+A. Ok. Thank you very much!
+
+Q. These are some amazing works. I like this two. Can you send me both?\
+A. Yeah! No issue! Just a minute!
+
+Q. Thank you very much for this amazing work. One thing I wanted to ask is, Can I reproduce the plots in the future for updated data?\
+A. Yeah! Please let me know when the new data is available. I will reproduce these plots in a few minutes. exactly as it is. (Thanks to #rlanguage and #RStudio)
+
+Q. That's really, amazing! Thanks a lot, man. Sure, I would like to reproducible these plots for updated data. See you then. Thank you.\
+A. Thank you, too.🍹🍹
+
+So, did you understand how handy RStudio and R programming language could be for your research and for making publication-quality graphs😊.\
+Got any other questions regarding making publication-quality graphs?\ Feel free to leave your comments. I will explore the possibilities and will answer your queries.\
+I will soon post a follow-up post showing the technical process (codes) of doing the things explained here. Stay connected.\
+If you like my post, consider following me on medium. You can also follow me on Linkedin (here).
+
+Thanks for visiting! Keep learning!
