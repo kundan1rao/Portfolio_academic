@@ -1,0 +1,10 @@
+Issues and observation as of given date:-
+
+(i.)
+Date:- 2022-02-25 :-
+Status :- Open
+1. index.md file in new post is not rendering in the final website although it is rendering well inside RStudio and 
+   preview of the deployment. Explore this issue. Untill then I am using .Rmd file to render this post.
+2. Try to rename "collection" as "services" in final url of the "services" on the website.
+Date:-
+Status:-
