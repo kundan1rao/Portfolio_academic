@@ -1,24 +1,25 @@
 ---
 author: Kundan K. Rao
+title: Make Publication Quality Graph in R Programming
+output: html_document
 categories: ["R","Visualization"]
-date: "2022-12-24"
-draft: false
+date: 2022-01-26
 excerpt: Data scraping to data cleaning to data pre-processing to making plots to exporting in multiple formats. Everything in Rstudio.
-images: null
-layout: single
-series: null
 subtitle: "Data scraping to data cleaning to data pre-processing to making plots to exporting in multiple formats. Everything in Rstudio."
 tags: ["Publication","Graphs"]
-title: Make Publication Quality Graph in R Programming
+draft: false
+layout: single
+series: null
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<img src="{{< blogdown/postref >}}index_files/figure_html/publication-blog.png" width="672" />
 
-![Graph](index_files/figure-html/publication-blog.png "Graph")
 
 Isn't the subtitle seems great?\
+
 Enjoy the conversation:-
 
 Q. Hey! what do you do?\
