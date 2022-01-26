@@ -3,5 +3,5 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hellow! Welcome!
+  Hellow! Welcome to my website!
 ---
